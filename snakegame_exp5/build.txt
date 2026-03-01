@@ -1,0 +1,9 @@
+g++ snake_test_main.cpp -o GameMain -lsfml-graphics -lsfml-window -lsfml-system
+
+
+g++ expmain1.cpp -o ExpMain -lsfml-graphics -lsfml-window -lsfml-system
+
+
+g++ expvisualizer.cpp -o VisMain -lsfml-graphics -lsfml-window -lsfml-system
+
+
